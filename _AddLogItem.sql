@@ -1,4 +1,7 @@
-
+/*
+** Parte anterior de su _addLogItems**
+los siguiente deve ser agregado al final de su _addLogItems
+*/
 IF (@Operation = 41)
 	begin
 		if(@ItemRefID = 41811 ) --Weapon
